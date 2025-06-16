@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "sanad": "عن أبي هريرة رضي الله عنه",
+    "matn": "إنما الأعمال بالنيات وإنما لكل امرئ ما نوى",
+    "translations": {
+      "ar": {
+        "sanad": "عن أبي هريرة رضي الله عنه",
+        "matn": "إنما الأعمال بالنيات وإنما لكل امرئ ما نوى"
+      },
+      "fr": {
+        "sanad": "D'après Abu Hurayra",
+        "matn": "Les actes ne valent que par leurs intentions, et chacun n'a pour lui que ce qu'il a eu l'intention de faire"
+      },
+      "en": {
+        "sanad": "Narrated by Abu Hurayrah",
+        "matn": "Actions are judged by intentions, and each person will be rewarded according to their intentions"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "sanad": "عن عمر بن الخطاب رضي الله عنه",
+    "matn": "من أحدث في أمرنا هذا ما ليس منه فهو رد",
+    "translations": {
+      "ar": {
+        "sanad": "عن عمر بن الخطاب رضي الله عنه",
+        "matn": "من أحدث في أمرنا هذا ما ليس منه فهو رد"
+      },
+      "fr": {
+        "sanad": "D'après Omar Ibn Al-Khattab",
+        "matn": "Quiconque introduit dans notre religion une innovation qui n'en fait pas partie, elle est rejetée"
+      },
+      "en": {
+        "sanad": "Narrated by Umar ibn Al-Khattab",
+        "matn": "Whoever introduces into this affair of ours something that does not belong to it, it will be rejected"
+      }
+    }
+  }
+]
