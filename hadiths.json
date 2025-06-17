@@ -3,16 +3,19 @@
     "id": 1,
     "translations": {
       "ar": {
-        "sanad": "عن أبي هريرة رضي الله عنه",
-        "matn": "إنما الأعمال بالنيات وإنما لكل امرئ ما نوى"
+        "sanad": "عن أمير المؤمنين أبي حفص عمر بن الخطاب رضي الله عنه قال: سمعتُ رسولَ الله ﷺ يقول",
+        "matn": "إنما الأعمال بالنيات، وإنما لكل امرئ ما نوى، فمن كانت هجرته إلى الله ورسوله فهجرته إلى الله ورسوله، ومن كانت هجرته لدنيا يصيبها أو امرأة ينكحها، فهجرته إلى ما هاجر إليه",
+        "rawi": "رواه البخاري ومسلم"
       },
       "fr": {
-        "sanad": "D'après Abu Hurayra",
-        "matn": "Les actes ne valent que par leurs intentions, et chacun n'a pour lui que ce qu'il a eu l'intention de faire"
+        "sanad": "Le prince des croyants, Abou Hafs, ‘Oumar ibn Al-Khattâb rapporte avoir entendu le Messager d’Allah dire",
+        "matn": "Les actes ne valent que par leurs intentions, et chacun sera récompensé selon son intention. Quiconque aura émigré pour Allah et Son Messager, son émigration sera pour Allah et Son Messager ; et quiconque aura émigré pour un but terrestre qu’il convoite ou pour une femme qu’il veut épouser, son émigration sera pour ce pour quoi il a émigré.",
+        "rawi": "Rapporté par Al-Boukhâri et Mouslim"
       },
       "en": {
-        "sanad": "Narrated by Abu Hurayrah",
-        "matn": "Actions are judged by intentions, and each person will be rewarded according to their intentions"
+        "sanad": "Narrated by the Commander of the Believers, Abu Hafs 'Umar ibn Al-Khattab, who said: I heard the Messenger of Allah (ﷺ) say",
+        "matn": "Actions are judged by intentions, and each person will have what they intended. So whoever’s migration was to Allah and His Messenger, his migration is to Allah and His Messenger; but whoever’s migration was for some worldly gain or to marry a woman, then his migration is to that for which he migrated.",
+        "rawi": "Reported by Bukhari and Muslim"
       }
     }
   },
@@ -20,16 +23,19 @@
     "id": 2,
     "translations": {
       "ar": {
-        "sanad": "عن عمر بن الخطاب رضي الله عنه",
-        "matn": "من أحدث في أمرنا هذا ما ليس منه فهو رد"
+        "sanad": "عن عمر رضي الله عنه أيضًا قال",
+        "matn": "بَيْنَمَا نَحْنُ جُلُوسٌ عِندَ رَسُولِ اللَّهِ ﷺ ذَاتَ يَوْمٍ، إذْ طَلَعَ عَلَيْنَا رَجُلٌ شَدِيدُ بَيَاضِ الثِّيَابِ، شَدِيدُ سَوَادِ الشَّعْرِ، لَا يُرَى عَلَيْهِ أَثَرُ السَّفَرِ، وَلَا يَعْرِفُهُ مِنَّا أَحَدٌ. حَتَّى جَلَسَ إلَى النَّبِيِّ ﷺ، فَأَسْنَدَ رُكْبَتَيْهِ إلَى رُكْبَتَيْهِ، وَوَضَعَ كَفَّيْهِ عَلَى فَخِذَيْهِ، وَقَالَ: يَا مُحَمَّدُ أَخْبِرْنِي عَنِ الْإِسْلَامِ. فَقَالَ رَسُولُ اللَّهِ ﷺ: الْإِسْلَامُ أَنْ تَشْهَدَ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَتُقِيمَ الصَّلَاةَ، وَتُؤْتِيَ الزَّكَاةَ، وَتَصُومَ رَمَضَانَ، وَتَحُجَّ الْبَيْتَ إِنِ اسْتَطَعْتَ إِلَيْهِ سَبِيلًا. قَالَ: صَدَقْتَ. فَعَجِبْنَا لَهُ يَسْأَلُهُ وَيُصَدِّقُهُ! قَالَ: فَأَخْبِرْنِي عَنِ الْإِيمَانِ. قَالَ: أَنْ تُؤْمِنَ بِاللَّهِ، وَمَلَائِكَتِهِ، وَكُتُبِهِ، وَرُسُلِهِ، وَالْيَوْمِ الْآخِرِ، وَتُؤْمِنَ بِالْقَدَرِ خَيْرِهِ وَشَرِّهِ. قَالَ: صَدَقْتَ. قَالَ: فَأَخْبِرْنِي عَنِ الْإِحْسَانِ. قَالَ: أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ. قَالَ: فَأَخْبِرْنِي عَنِ السَّاعَةِ. قَالَ: مَا الْمَسْؤُولُ عَنْهَا بِأَعْلَمَ مِنَ السَّائِلِ. قَالَ: فَأَخْبِرْنِي عَنْ أَمَارَاتِهَا. قَالَ: أَنْ تَلِدَ الْأَمَةُ رَبَّتَهَا، وَأَنْ تَرَى الْحُفَاةَ الْعُرَاةَ الْعَالَةَ رِعَاءَ الشَّاءِ يَتَطَاوَلُونَ فِي الْبُنْيَانِ. ثُمَّ انْطَلَقَ، فَلَبِثْتُ مَلِيًّا، ثُمَّ قَالَ: يَا عُمَرُ، أَتَدْرِي مَنِ السَّائِلُ؟ قُلْتُ: اللَّهُ وَرَسُولُهُ أَعْلَمُ. قَالَ: فَإِنَّهُ جِبْرِيلُ أَتَاكُمْ يُعَلِّمُكُمْ دِينَكُمْ.",
+        "rawi": "رواه مسلم"
       },
       "fr": {
-        "sanad": "D'après Omar Ibn Al-Khattab",
-        "matn": "Quiconque introduit dans notre religion une innovation qui n'en fait pas partie, elle est rejetée"
+        "sanad": "‘Oumar رضي الله عنه rapporte également",
+        "matn": "Alors que nous étions un jour assis en compagnie du Messager d’Allah ﷺ, se présenta à nous un homme portant des vêtements extrêmement blancs, les cheveux très noirs, et ne présentant aucune trace de voyage. Pourtant, aucun d’entre nous ne le connaissait. Il s’assit près du Prophète ﷺ, plaça ses genoux contre les siens, posa les paumes de ses mains sur ses cuisses et dit : « Ô Mouhammad, informe-moi sur l’islam. » Il répondit : « L’islam consiste à témoigner qu’il n’y a de divinité digne d’adoration qu’Allah et que Mouhammad est le Messager d’Allah, à accomplir la prière, à s’acquitter de la zakat, à jeûner durant le mois de Ramadan, et à accomplir le pèlerinage à la Maison si tu en as les moyens. » L’homme dit : « Tu as dit vrai. » Nous fûmes étonnés qu’il l’interroge et le confirme ensuite ! Il dit alors : « Informe-moi sur la foi (al-îmân). » Le Prophète ﷺ répondit : « C’est de croire en Allah, en Ses anges, en Ses livres, en Ses messagers, au Jour dernier et de croire au destin, qu’il soit favorable ou défavorable. » Il dit : « Tu as dit vrai. » Puis il dit : « Informe-moi sur l’excellence (al-ihsân). » Il répondit : « C’est d’adorer Allah comme si tu Le voyais, car si tu ne Le vois pas, Lui te voit. » Il dit : « Informe-moi sur l’Heure (la fin du monde). » Il répondit : « Celui qui est interrogé n’en sait pas plus que celui qui interroge. » Il dit : « Informe-moi alors de ses signes. » Il répondit : « Lorsque l’esclave donnera naissance à sa maîtresse, et que tu verras les va-nu-pieds, démunis, gardiens de moutons rivaliser dans la construction de hauts bâtiments. » Puis l’homme s’en alla. Je restai un moment sans bouger, puis le Prophète ﷺ me dit : « ‘Oumar ! Sais-tu qui était celui qui posait les questions ? » Je répondis : « Allah et Son Messager en savent mieux que moi. » Il dit : « C’était Jibril, venu vous enseigner votre religion. »",
+        "rawi": "Rapporté par Mouslim"
       },
       "en": {
-        "sanad": "Narrated by Umar ibn Al-Khattab",
-        "matn": "Whoever introduces into this affair of ours something that does not belong to it, it will be rejected"
+        "sanad": "Narrated also by ‘Umar رضي الله عنه",
+        "matn": "While we were one day sitting with the Messenger of Allah ﷺ, there appeared before us a man whose clothes were exceedingly white and whose hair was exceedingly black. No signs of travel were seen on him, and none of us knew him. He came and sat before the Prophet ﷺ. Resting his knees against his knees and placing his hands on his thighs, he said: 'O Muhammad, tell me about Islam.' The Messenger of Allah ﷺ said: 'Islam is to testify that there is no deity worthy of worship except Allah and that Muhammad is the Messenger of Allah, to perform the prayers, to pay the zakat, to fast during Ramadan, and to perform Hajj to the House if you are able to do so.' He said: 'You have spoken the truth.' We were amazed that he asked and then confirmed it. Then he said: 'Tell me about faith (iman).' He ﷺ replied: 'It is to believe in Allah, His angels, His books, His messengers, the Last Day, and to believe in divine decree (qadar), both the good and the bad of it.' He said: 'You have spoken the truth.' He said: 'Tell me about ihsan.' He ﷺ replied: 'It is to worship Allah as if you see Him, for though you do not see Him, He sees you.' He said: 'Then tell me about the Hour.' He ﷺ said: 'The one questioned about it knows no better than the questioner.' He said: 'Then tell me about its signs.' He ﷺ replied: 'That the slave girl will give birth to her mistress, and that you will see the barefoot, unclothed, destitute shepherds competing in constructing tall buildings.' Then he went away. I stayed for a while. Then the Prophet ﷺ said: 'O ‘Umar, do you know who the questioner was?' I said: 'Allah and His Messenger know best.' He said: 'That was Jibril. He came to teach you your religion.'",
+        "rawi": "Reported by Muslim"
       }
     }
   },
@@ -37,16 +43,19 @@
     "id": 3,
     "translations": {
       "ar": {
-        "sanad": "عن أنس رضي الله عنه",
-        "matn": "إن قامت الساعة وبيد أحدكم فسيلة، فإن استطاع أن لا يقوم حتى يغرسها فليفعل"
+        "sanad": "عن أبي عبد الرحمن عبد الله بن عمر بن الخطاب رضي الله عنهما قال",
+        "matn": "سمعت رسول الله صلى الله عليه وسلم يقول: «بني الإسلام على خمس: شهادة أن لا إله إلا الله وأن محمدا رسول الله، وإقام الصلاة، وإيتاء الزكاة، وحج البيت، وصوم رمضان».",
+        "rawi": "رواه البخاري ومسلم"
       },
       "fr": {
-        "sanad": "D'après Anas Ibn Malik",
-        "matn": "Si l'Heure a lieu alors que l'un d'entre vous a un petit palmier à planter dans sa main, s'il peut le planter avant qu'elle n'ai lieu qu'il le plante"
+        "sanad": "Abou ‘Abd Ar-Rahmân ‘Abdoullah ibn ‘Oumar ibn Al-Khattâb رضي الله عنهما rapporte",
+        "matn": "J’ai entendu le Messager d’Allah ﷺ dire : « L’islam repose sur cinq piliers : le témoignage qu’il n’y a de divinité en droit d’être adorée qu’Allah et que Mouhammad est le Messager d’Allah, l’accomplissement de la prière, le versement de l’aumône légale (zakat), le pèlerinage à la Maison (Kaaba) et le jeûne du mois de Ramadan. »",
+        "rawi": "Rapporté par Al-Boukhâri et Mouslim"
       },
       "en": {
-        "sanad": "Anas ibn Malik reported",
-        "matn": "If the Final Hour comes while you have a shoot of a plant in your hands and it is possible to plant it before the Hour comes, you should plant it"
+        "sanad": "Abdullah ibn Umar رضي الله عنهما reported",
+        "matn": "I heard the Messenger of Allah ﷺ say: \"Islam has been built on five [pillars]: testifying that there is no deity worthy of worship except Allah and that Muhammad is the Messenger of Allah, establishing the prayer, paying the zakat, making the pilgrimage to the House, and fasting in Ramadan.\"",
+        "rawi": "Reported by Bukhari and Muslim"
       }
     }
   }
