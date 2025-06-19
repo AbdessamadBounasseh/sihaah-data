@@ -13,7 +13,7 @@
         "rawi": "Rapporté par Al-Boukhâri et Mouslim"
       },
       "en": {
-        "sanad": "Narrated by the Commander of the Believers, Abu Hafs 'Umar ibn Al-Khattab, who said: I heard the Messenger of Allah (ﷺ) say",
+        "sanad": "It is narrated on the authority of Amirul Mu'minin, Abu Hafs 'Umar bin al-Khattab (ra) who said: I heard the Messenger of Allah (ﷺ) say",
         "matn": "Actions are judged by intentions, and each person will have what they intended. So whoever’s migration was to Allah and His Messenger, his migration is to Allah and His Messenger; but whoever’s migration was for some worldly gain or to marry a woman, then his migration is to that for which he migrated.",
         "rawi": "Reported by Bukhari and Muslim"
       }
@@ -33,7 +33,7 @@
         "rawi": "Rapporté par Mouslim"
       },
       "en": {
-        "sanad": "Narrated also by ‘Umar رضي الله عنه",
+        "sanad": "Also on the authority of `Umar (ra) who said:",
         "matn": "While we were one day sitting with the Messenger of Allah ﷺ, there appeared before us a man whose clothes were exceedingly white and whose hair was exceedingly black. No signs of travel were seen on him, and none of us knew him. He came and sat before the Prophet ﷺ. Resting his knees against his knees and placing his hands on his thighs, he said: 'O Muhammad, tell me about Islam.' The Messenger of Allah ﷺ said: 'Islam is to testify that there is no deity worthy of worship except Allah and that Muhammad is the Messenger of Allah, to perform the prayers, to pay the zakat, to fast during Ramadan, and to perform Hajj to the House if you are able to do so.' He said: 'You have spoken the truth.' We were amazed that he asked and then confirmed it. Then he said: 'Tell me about faith (iman).' He ﷺ replied: 'It is to believe in Allah, His angels, His books, His messengers, the Last Day, and to believe in divine decree (qadar), both the good and the bad of it.' He said: 'You have spoken the truth.' He said: 'Tell me about ihsan.' He ﷺ replied: 'It is to worship Allah as if you see Him, for though you do not see Him, He sees you.' He said: 'Then tell me about the Hour.' He ﷺ said: 'The one questioned about it knows no better than the questioner.' He said: 'Then tell me about its signs.' He ﷺ replied: 'That the slave girl will give birth to her mistress, and that you will see the barefoot, unclothed, destitute shepherds competing in constructing tall buildings.' Then he went away. I stayed for a while. Then the Prophet ﷺ said: 'O ‘Umar, do you know who the questioner was?' I said: 'Allah and His Messenger know best.' He said: 'That was Jibril. He came to teach you your religion.'",
         "rawi": "Reported by Muslim"
       }
@@ -53,7 +53,7 @@
         "rawi": "Rapporté par Al-Boukhâri et Mouslim"
       },
       "en": {
-        "sanad": "Abdullah ibn Umar رضي الله عنهما reported",
+        "sanad": "On the authority of Abdullah, the son of Umar ibn al-Khattab (ra), who said,",
         "matn": "I heard the Messenger of Allah ﷺ say: \"Islam has been built on five [pillars]: testifying that there is no deity worthy of worship except Allah and that Muhammad is the Messenger of Allah, establishing the prayer, paying the zakat, making the pilgrimage to the House, and fasting in Ramadan.\"",
         "rawi": "Reported by Bukhari and Muslim"
       }
@@ -64,18 +64,138 @@
     "translations": {
       "ar": {
         "sanad": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللهُ عَنْهُ قَالَ",
-        "matn": "حَدَّثَنَا رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ -وَهُوَ الصَّادِقُ الْمَصْدُوقُ-: «إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ، ثُمَّ يُرْسَلُ إِلَيْهِ الْمَلَكُ، فَيَنْفُخُ فِيهِ الرُّوحَ، وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ، وَأَجَلِهِ، وَعَمَلِهِ، وَشَقِيٍّ أَمْ سَعِيدٍ. فَوَاللَّهِ الَّذِي لَا إِلَهَ غَيْرُهُ، إِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ، حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الْكِتَابُ، فَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ، فَيَدْخُلُهَا. وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ، حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الْكِتَابُ، فَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ، فَيَدْخُلُهَا».",
+        "matn": "حَدَّثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم -وَهُوَ الصَّادِقُ الْمَصْدُوقُ-: \"إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ، ثُمَّ يُرْسَلُ إِلَيْهِ الْمَلَكُ فَيَنْفُخُ فِيهِ الرُّوحَ، وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ، وَأَجَلِهِ، وَعَمَلِهِ، وَشَقِيٍّ أَمْ سَعِيدٍ؛ فَوَاَللَّهِ الَّذِي لَا إِلَهَ غَيْرُهُ، إِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ، حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الْكِتَابُ، فَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ فَيَدْخُلُهَا، وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ، حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الْكِتَابُ، فَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ فَيَدْخُلُهَا\".",
         "rawi": "رواه البخاري ومسلم"
       },
       "fr": {
-        "sanad": "Abou ‘Abd Ar-Rahmân ‘Abdoullah ibn Mas’oud رضي الله عنه a dit",
-        "matn": "Le Messager d’Allah ﷺ, l’homme véridique et digne de foi, nous a affirmé : « Chacun de vous se forme dans le ventre de sa mère durant quarante jours, d’abord sous forme d’une goutte de sperme. Il devient ensuite un caillot de sang pour une période identique, puis une masse de chair pour une période similaire. C’est alors que l’ange lui est envoyé pour insuffler en lui la vie et avec ordre d’écrire quatre choses : sa subsistance, la durée de sa vie, ses œuvres et s’il sera parmi les damnés ou les bienheureux. Par Allah, en dehors de qui il n’y a pas de divinité en droit d’être adorée, il se peut que l’un d’entre vous accomplisse les œuvres des élus du Paradis au point d’en être séparé d’une simple coudée. Il est alors rattrapé par son destin et commet les actes des damnés de l’Enfer, où il entrera. De même, il se peut que l’un d’entre vous commette les actes des damnés de l’Enfer au point d’en être séparé d’une simple coudée. Il est alors rattrapé par son destin et accomplit les œuvres des élus du Paradis, où il entrera. »",
+        "sanad": "Abû ‘Abd ar-Rahmân ‘Abd Allah ibn Mas’ûd a dit, lui qui est véridique, le digne d’être cru",
+        "matn": "L’Envoyé de d’Allah – صلى الله عليه و سلم – a dit : « La conception de chacun d’entre vous, dans le ventre de sa mère s’accomplit en quarante jours ; d’abord sous la forme d’une semence, puis sous celle de plasma sanguin pour une même période, puis sous celle d’un morceau de chaire pour une même période, puis un ange lui est envoyé, il y insuffle l’esprit vital, et reçoit l’ordre d’inscrire quatre décisions (le concernant) à savoir : ce qui lui est imparti comme biens et nourriture, délai de vie, actes et condition heureuse ou malheureuse. Par Allah en dehors duquel il n’est pas de divinité, l’un de vous accomplit des actes comme en font les gens du paradis au point qu’il ne reste plus entre lui et le paradis qu’une coudée ; c’est alors qu’il est devancé par le destin, et amené à commettre des actes dignes des gens de l’enfer, qui l’y font rentrer. Par contre l’un de vous accomplit des actes comme en font les gens de l’enfer au point qu’il ne reste plus entre lui et l’enfer qu’une coudée ; c’est alors qu’il est devancé par le destin, et amené à commettre des actes dignes des gens du paradis, qui l’y font rentrer. »",
         "rawi": "Rapporté par Al-Boukhârî et Mouslim"
       },
       "en": {
-        "sanad": "Abdullah ibn Mas'ud رضي الله عنه reported",
-        "matn": "The Messenger of Allah ﷺ — and he is the truthful, the believed — narrated to us: “Verily the creation of each one of you is brought together in his mother’s womb for forty days in the form of a drop (nutfah), then he becomes a clot (‘alaqah) for a like period, then a morsel of flesh (mudghah) for a like period. Then there is sent to him the angel who breathes the soul into him and who is commanded with four matters: to write down his sustenance (rizq), his life span, his deeds, and whether he will be among the wretched or the blessed. By the One besides Whom there is no deity, one of you may do the deeds of the people of Paradise until there is only an arm’s length between him and it, then that which has been written overtakes him, and he acts with the deeds of the people of the Fire and thus enters it. And one of you may do the deeds of the people of the Fire until there is only an arm’s length between him and it, then that which has been written overtakes him, and he acts with the deeds of the people of Paradise and thus enters it.”",
+        "sanad": "On the authority of Abdullah ibn Masood (ra), who said,",
+        "matn": "“Verily the creation of each one of you is brought together in his mother’s womb for forty days in the form of a nutfah (a drop), then he becomes an alaqah (clot of blood) for a like period, then a mudghah (morsel of flesh) for a like period, then there is sent to him the angel who blows his soul into him and who is commanded with four matters: to write down his rizq (sustenance), his life span, his actions, and whether he will be happy or unhappy (i.e., whether or not he will enter Paradise). By the One, other than Whom there is no deity, verily one of you performs the actions of the people of Paradise until there is but an arms length between him and it, and that which has been written overtakes him, and so he acts with the actions of the people of the Hellfire and thus enters it; and verily one of you performs the actions of the people of the Hellfire, until there is but an arms length between him and it, and that which has been written overtakes him and so he acts with the actions of the people of Paradise and thus he enters it.”",
         "rawi": "Reported by Bukhari and Muslim"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "translations": {
+      "ar": {
+        "sanad": "عَنْ أُمِّ الْمُؤْمِنِينَ أُمِّ عَبْدِ اللَّهِ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، قَالَتْ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "matn": "مَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ [رَوَاهُ الْبُخَارِيُّ] ،[وَمُسْلِمٌ] وَفِي رِوَايَةٍ لِمُسْلِمٍ: مَنْ عَمِلَ عَمَلًا لَيْسَ عَلَيْهِ أَمْرُنَا فَهُوَ رَدٌّ",
+        "rawi": "رواه البخاري ومسلم"
+      },
+      "fr": {
+        "sanad": "D’après la mère des croyants A’icha – رضي الله عنها – a dit : L’Envoyé d’Allah – صلى الله عليه و سلم – a dit :",
+        "matn": "« Quiconque apporte à notre affaire-ci une chose nouvelle non fondée sur elle, verra cette chose rejetée. » Dans la version de Muslim, il y a ceci : « Celui qui fait un acte sur lequel notre affaire n’est pas maître, verra son acte rejeté ».",
+        "rawi": "Rapporté par al-Bukhârî et Muslim"
+      },
+      "en": {
+        "sanad": "On the authority of the mother of the faithful, Aisha (ra), who said,",
+        "matn": "“He who innovates something in this matter of ours (i.e., Islam) that is not of it will have it rejected (by Allah).” [Bukhari & Muslim] In another version in Muslim it reads: “He who does an act which we have not commanded, will have it rejected (by Allah).”",
+        "rawi": "Narrated by al-Bukhari and Muslim"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "translations": {
+      "ar": {
+        "sanad": "عَنْ أَبِي عَبْدِ اللَّهِ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُمَا، قَالَ: سَمِعْت رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+        "matn": "إنَّ الْحَلَالَ بَيِّنٌ، وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا أُمُورٌ مُشْتَبِهَاتٌ لَا يَعْلَمُهُنَّ كَثِيرٌ مِنْ النَّاسِ، فَمَنْ اتَّقَى الشُّبُهَاتِ فَقَدِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ، وَمَنْ وَقَعَ فِي الشُّبُهَاتِ وَقَعَ فِي الْحَرَامِ، كَالرَّاعِي يَرْعَى حَوْلَ الْحِمَى يُوشِكُ أَنْ يَرْتَعَ فِيهِ، أَلَا وَإِنَّ لِكُلِّ مَلِكٍ حِمًى، أَلَا وَإِنَّ حِمَى اللَّهِ مَحَارِمُهُ، أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ",
+        "rawi": "رواه البخاري ومسلم"
+      },
+      "fr": {
+        "sanad": "Abû ‘abd Allah an-Nu’mân ibn Bashîr – رضي الله عنه – a dit : J’ai entendu l’Envoyé d’Allah – صلى الله عليه وسلم – dire :",
+        "matn": "« Les choses licites sont bien évidentes et les choses illicites sont bien évidentes. Entre les deux, il y a des choses équivoques que beaucoup de gens ignorent. Ainsi quiconque se met à l’abri des choses équivoques, préserve sa religion et son honneur. Et quiconque s’est laissé tomber dans les choses équivoques tombera dans les choses illicites, comme le berger qui fait paître son troupeau autour d’un enclos réservé, risquant à tout moment de l’empiéter. Or, chaque souverain a un domaine réservé : celui d’Allah est l’ensemble de Ses interdits. N’est-ce pas qu’il y a dans le corps humain un morceau de chair –mudgha- qui, s’il est bon, tout le corps le sera et s’il est corrompu, tout le corps le sera ? N’est-ce pas que c’est le cœur ? »",
+        "rawi": "Rapporté par al-Bukhârî et Muslim"
+      },
+      "en": {
+        "sanad": "On the authority of an-Nu’man ibn Basheer (ra), who said: I heard the Messenger of Allah (ﷺ) say,",
+        "matn": "“That which is lawful is clear and that which is unlawful is clear, and between the two of them are doubtful matters about which many people do not know. Thus he who avoids doubtful matters clears himself in regard to his religion and his honor, but he who falls into doubtful matters [eventually] falls into that which is unlawful, like the shepherd who pastures around a sanctuary, all but grazing therein. Truly every king has a sanctuary, and truly Allah’s sanctuary is His prohibitions. Truly in the body there is a morsel of flesh, which, if it be whole, all the body is whole, and which, if it is diseased, all of [the body] is diseased. Truly, it is the heart.”",
+        "rawi": "Narrated by al-Bukhari and Muslim"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "translations": {
+      "ar": {
+        "sanad": "عَنْ أَبِي رُقَيَّةَ تَمِيمِ بْنِ أَوْسٍ الدَّارِيِّ رَضِيَ اللهُ عَنْهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+        "matn": "الدِّينُ النَّصِيحَةُ. قُلْنَا: لِمَنْ؟ قَالَ: لِلَّهِ، وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ.",
+        "rawi": "رواه مسلم"
+      },
+      "fr": {
+        "sanad": "D’après Abû Rouqayya Tamîm ibn Aws ad-Darî – رضي الله عنه -, le Prophète – صلى الله عليه وسلم – a dit :",
+        "matn": "« La religion est le bon conseil. » – « Pour qui ? » Demanda-t-on au Prophète. – « Pour Allah, répondit-il, pour Son Livre, pour Son Prophète, pour les imâms et pour l’ensemble des musulmans. »",
+        "rawi": "Rapporté par Muslim"
+      },
+      "en": {
+        "sanad": "On the authority of Tameem ibn Aus ad-Daree (ra): The Prophet (ﷺ) said,",
+        "matn": "“The deen (religion) is naseehah (advice, sincerity).” We said, “To whom?” He (ﷺ) said, “To Allah, His Book, His Messenger, and to the leaders of the Muslims and their common folk.”",
+        "rawi": "Narrated by Muslim"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "translations": {
+      "ar": {
+        "sanad": "عَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+        "matn": "أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لَا إلَهَ إلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَيُقِيمُوا الصَّلَاةَ، وَيُؤْتُوا الزَّكَاةَ؛ فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلَّا بِحَقِّ الْإِسْلَامِ، وَحِسَابُهُمْ عَلَى اللَّهِ تَعَالَى.",
+        "rawi": "رواه البخاري ومسلم"
+      },
+      "fr": {
+        "sanad": "D’après Ibnou Omar (qu’Allah soit satisfait de lui et de son père), l’Envoyé d’Allah, صلى الله عليه وسلم a dit :",
+        "matn": "« Il m’a été ordonné de combattre les hommes jusqu’à ce qu’ils témoignent qu’il n’est d’autre divinité qu’Allah, et que Mohammed est Son Envoyé, qu’ils accomplissent la prière rituelle, qu’ils acquittent la Zakâa. S’ils exécutent ces choses, ils seront, à mon égard, garantis quant à leurs personnes et à leurs biens, à moins qu’ils ne trangressent (ouvertement) la loi de l’Islam, et Allah les jugera en dernier ressort. »",
+        "rawi": "رواية البخاري ومسلم"
+      },
+      "en": {
+        "sanad": "On the authority of Abdullah ibn Umar (ra): The Messenger of Allah (ﷺ) said,",
+        "matn": "“I have been ordered to fight against the people until they testify that there is none worthy of worship except Allah and that Muhammad is the Messenger of Allah, and until they establish the salah and pay the zakat. And if they do that then they will have gained protection from me for their lives and property, unless [they commit acts that are punishable] in Islam, and their reckoning will be with Allah.”",
+        "rawi": "Narrated by Bukhari and Muslim"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "translations": {
+      "ar": {
+        "sanad": "عَنْ أَبِي هُرَيْرَةَ عَبْدِ الرَّحْمَنِ بْنِ صَخْرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+        "matn": "مَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ، وَمَا أَمَرْتُكُمْ بِهِ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ، فَإِنَّمَا أَهْلَكَ الَّذِينَ مِنْ قَبْلِكُمْ كَثْرَةُ مَسَائِلِهِمْ وَاخْتِلَافُهُمْ عَلَى أَنْبِيَائِهِمْ.",
+        "rawi": "رواه البخاري ومسلم"
+      },
+      "fr": {
+        "sanad": "Abou Hourayra ‘abd Rahman ibn Sakhr – رضي الله عنه – a dit : J’ai entendu l’Envoyé d’Allah ( صلى الله عليه وسلم ) dire :",
+        "matn": "« Ce que je vous ai interdit évitez-le, et ce que je vous ai ordonné, accomplissez-le selon votre capacité. Ceux qui vous ont précédé ont péri seulement par l’abondance de leurs questions et leurs divergences d’opinions à l’égard de leurs Prophètes ».",
+        "rawi": "Rapporté par al Bukhari et Muslim"
+      },
+      "en": {
+        "sanad": "On the authority of Abu Hurayrah (ra): I heard the Messenger of Allah (ﷺ) say,",
+        "matn": "“What I have forbidden for you, avoid. What I have ordered you [to do], do as much of it as you can. For verily, it was only the excessive questioning and their disagreeing with their Prophets that destroyed [the nations] who were before you.”",
+        "rawi": "Narrated by Bukhari and Muslim"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "translations": {
+      "ar": {
+        "sanad": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "matn": "إِنَّ اللَّهَ طَيِّبٌ لَا يَقْبَلُ إلَّا طَيِّبًا، وَإِنَّ اللَّهَ أَمَرَ الْمُؤْمِنِينَ بِمَا أَمَرَ بِهِ الْمُرْسَلِينَ فَقَالَ تَعَالَى: \"يَا أَيُّهَا الرُّسُلُ كُلُوا مِنْ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا\"، وَقَالَ تَعَالَى: \"يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ\" ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرَ أَشْعَثَ أَغْبَرَ يَمُدُّ يَدَيْهِ إلَى السَّمَاءِ: يَا رَبِّ! يَا رَبِّ! وَمَطْعَمُهُ حَرَامٌ، وَمَشْرَبُهُ حَرَامٌ، وَمَلْبَسُهُ حَرَامٌ، وَغُذِّيَ بِالْحَرَامِ، فَأَنَّى يُسْتَجَابُ لَهُ؟",
+        "rawi": "رواه مسلم"
+      },
+      "fr": {
+        "sanad": "Selon Abou Houreyra – رضي الله عنه –, l’Envoyé d’Allah (صلى الله عليه وسلم) a dit :",
+        "matn": "«Certes Allah, Très Haut est Pureté. Il n’accepte que ce qui est pur. Il ordonne aux croyants ce qu’il a ordonné à Ses Envoyés. Or, Il a dit : ‹Ô Messagers! Mangez de ce qui est permis et agréable et faites du bien.›, dit aussi : ‹Ô les croyants! Mangez des (nourritures) licites que Nous vous avons attribuées.›.\nLà-dessus, le Prophète fit allusion à l’homme qui prolonge ses voyages (pieux), qui a des cheveux longs et poudreux et tend les mains vers le ciel, disant : «O Seigneur, O Seigneur», et cependant il se nourrit de choses défendues, boit des liquides défendus, se revêt d’habits défendus, et il a été nourri (dans son enfance) de choses défendues. «Comment donc pourrait-il être exaucé ?».",
+        "rawi": "Rapporté par Muslim"
+      },
+      "en": {
+        "sanad": "On the authority of Abu Hurayrah (ra): The Messenger of Allah (ﷺ) said,",
+        "matn": "“Allah the Almighty is Good and accepts only that which is good. And verily Allah has commanded the believers to do that which He has commanded the Messengers. So the Almighty has said: “O (you) Messengers! Eat of the tayyibat [all kinds of halal (legal) foods], and perform righteous deeds.” and the Almighty has said: “O you who believe! Eat of the lawful things that We have provided you.”. Then he (ﷺ) mentioned a man who, having journeyed far, is disheveled and dusty, and who spreads out his hands to the sky saying “O Lord! O Lord!”, while his food is haram, his drink is haram, his clothing is haram, and he has been nourished with haram, so how can his supplication be answered?”",
+        "rawi": "Narrated by Muslim"
       }
     }
   }
