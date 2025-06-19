@@ -58,5 +58,25 @@
         "rawi": "Reported by Bukhari and Muslim"
       }
     }
+  },
+  {
+    "id": 4,
+    "translations": {
+      "ar": {
+        "sanad": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللهُ عَنْهُ قَالَ",
+        "matn": "حَدَّثَنَا رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ -وَهُوَ الصَّادِقُ الْمَصْدُوقُ-: «إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ، ثُمَّ يُرْسَلُ إِلَيْهِ الْمَلَكُ، فَيَنْفُخُ فِيهِ الرُّوحَ، وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ، وَأَجَلِهِ، وَعَمَلِهِ، وَشَقِيٍّ أَمْ سَعِيدٍ. فَوَاللَّهِ الَّذِي لَا إِلَهَ غَيْرُهُ، إِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ، حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الْكِتَابُ، فَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ، فَيَدْخُلُهَا. وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ، حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الْكِتَابُ، فَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ، فَيَدْخُلُهَا».",
+        "rawi": "رواه البخاري ومسلم"
+      },
+      "fr": {
+        "sanad": "Abou ‘Abd Ar-Rahmân ‘Abdoullah ibn Mas’oud رضي الله عنه a dit",
+        "matn": "Le Messager d’Allah ﷺ, l’homme véridique et digne de foi, nous a affirmé : « Chacun de vous se forme dans le ventre de sa mère durant quarante jours, d’abord sous forme d’une goutte de sperme. Il devient ensuite un caillot de sang pour une période identique, puis une masse de chair pour une période similaire. C’est alors que l’ange lui est envoyé pour insuffler en lui la vie et avec ordre d’écrire quatre choses : sa subsistance, la durée de sa vie, ses œuvres et s’il sera parmi les damnés ou les bienheureux. Par Allah, en dehors de qui il n’y a pas de divinité en droit d’être adorée, il se peut que l’un d’entre vous accomplisse les œuvres des élus du Paradis au point d’en être séparé d’une simple coudée. Il est alors rattrapé par son destin et commet les actes des damnés de l’Enfer, où il entrera. De même, il se peut que l’un d’entre vous commette les actes des damnés de l’Enfer au point d’en être séparé d’une simple coudée. Il est alors rattrapé par son destin et accomplit les œuvres des élus du Paradis, où il entrera. »",
+        "rawi": "Rapporté par Al-Boukhârî et Mouslim"
+      },
+      "en": {
+        "sanad": "Abdullah ibn Mas'ud رضي الله عنه reported",
+        "matn": "The Messenger of Allah ﷺ — and he is the truthful, the believed — narrated to us: “Verily the creation of each one of you is brought together in his mother’s womb for forty days in the form of a drop (nutfah), then he becomes a clot (‘alaqah) for a like period, then a morsel of flesh (mudghah) for a like period. Then there is sent to him the angel who breathes the soul into him and who is commanded with four matters: to write down his sustenance (rizq), his life span, his deeds, and whether he will be among the wretched or the blessed. By the One besides Whom there is no deity, one of you may do the deeds of the people of Paradise until there is only an arm’s length between him and it, then that which has been written overtakes him, and he acts with the deeds of the people of the Fire and thus enters it. And one of you may do the deeds of the people of the Fire until there is only an arm’s length between him and it, then that which has been written overtakes him, and he acts with the deeds of the people of Paradise and thus enters it.”",
+        "rawi": "Reported by Bukhari and Muslim"
+      }
+    }
   }
 ]
